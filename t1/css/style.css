@@ -1,0 +1,86 @@
+img{
+    width: 400px;
+    padding-left: 35%;
+}
+h1{
+    text-align: center;
+    background-color: #e3d2ec;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+	
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: unset;
+}
+footer
+{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: coral;
+}
+a{
+    font-size: 20px;
+    margin: 50px;
+}
+a:hover{
+    border-radius: 20px;
+    color: rgb(225, 233, 122);
+    font-size: 21px;
+}
+h5{
+    background-color: #E7D086;
+    width: 70%;
+    height: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: right;
+}
+h6{
+    background-color: #E7D086;
+    width: 95%;
+    height: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: right;
+}
+h4{
+    background-color: #E7D086;
+    width: 50%;
+    height: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: right;
+}
+table{
+    tab-size: 100%;
+    table-layout: initial;
+    width: 100%;
+    background-color: #CB5252;
+    border-radius: 10px;
+
+}
+th{
+    background-color: burlywood;
+}
+h2{
+    
+}
+b{
+    color: black;
+}
+body{
+    background-image: url(/DESIGN1/image/download.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+h3{
+    padding-left: 120px;
+}
+img
+{
+    width: 170px;
+    padding-left: 560px;
+}
